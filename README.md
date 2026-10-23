@@ -1,6 +1,6 @@
 ### Hi, I'm Jay 👋
 
-**AI AGENTS · RAG · LLM APPLICATIONS · FULL STACK**
+**AI AGENTS · RAG · LLM APPLICATIONS · RETRIEVAL EVALUATION**
 
 I turn *"could this be simpler?"* into projects.
 
@@ -9,19 +9,12 @@ I turn *"could this be simpler?"* into projects.
 > For me, a working prototype is the beginning of a conversation: build it, learn what matters, and make the next version better.
 > 对我来说，能跑的原型只是对话的开始：先做出来，搞清楚什么重要，再把下一版做得更好。
 
-**Working on / 正在做**
+Currently exploring RAG knowledge bases and multi-agent workflows.
 
-- 🔍 [**fastapi-docs-rag**](https://github.com/yun-248710/fastapi-docs-rag) —
-  中文提问 · 查 FastAPI 英文文档。向量（bge-m3）+ BM25 混合检索，
-  阈值由库内/库外分数分布标定；50 题评测集、113 条回归测试跑在 CI 上。
-  最硬的一个数：正确文档进检索窗口 **2/24 → 21/24**。
-
-  这个项目里我猜错过两次 —— 以为更新日志是瓶颈、以为相对判据更专业，
-  两次都被自己的实验推翻，也都写进了 README。
-
-Currently exploring ideas through RAG 知识库、多智能体工作流与大模型应用落地。
+目前在探索 RAG 知识库与多智能体工作流。最近在打磨 [**fastapi-docs-rag**](https://github.com/yun-248710/fastapi-docs-rag) —— 中文提问、查 FastAPI 英文文档；正确文档进检索窗口从 2/24 提到 21/24，113 条回归测试跑在 CI 上。
 
 Open to exchanging ideas, comparing notes, and building something useful together.
+欢迎交流想法、互换笔记，一起做点有用的东西。
 
 ---
 

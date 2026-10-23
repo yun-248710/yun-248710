@@ -13,6 +13,8 @@ Currently exploring RAG knowledge bases and multi-agent workflows.
 
 目前在探索 RAG 知识库与多智能体工作流。最近在打磨 [**fastapi-docs-rag**](https://github.com/yun-248710/fastapi-docs-rag) —— 中文提问、查 FastAPI 英文文档；正确文档进检索窗口从 2/24 提到 21/24，113 条回归测试跑在 CI 上。
 
+![fastapi-docs-rag 运行效果](https://github.com/yun-248710/fastapi-docs-rag/raw/main/assets/terminal.png)
+
 Open to exchanging ideas, comparing notes, and building something useful together.
 欢迎交流想法、互换笔记，一起做点有用的东西。
 
